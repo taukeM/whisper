@@ -2,7 +2,7 @@
 
 ## Create a dataset
 ```
-$ python3 dataset.py
+python3 dataset.py
 ```
 
 ## Build a docker image
